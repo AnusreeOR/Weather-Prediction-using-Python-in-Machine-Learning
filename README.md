@@ -25,14 +25,6 @@ The goal of this project is to predict whether it will rain tomorrow based on hi
 | XGBoost | ~0.86 |
 | SVC | ~0.82 |
 | **CatBoost** | **~0.89** ✅ Best
-## 🤖 Models Tested
-| Model | ROC-AUC Score |
-|-------|---------------|
-| Logistic Regression | ~0.78 |
-| Random Forest | ~0.85 |
-| XGBoost | ~0.86 |
-| SVC | ~0.82 |
-| **CatBoost** | **~0.89** ✅ Best
 
 ## 🏆 Best Model: CatBoost
 - Native support for categorical features
