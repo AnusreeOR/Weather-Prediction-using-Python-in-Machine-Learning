@@ -1,1 +1,1 @@
-# Weather-Prediction-using-Python-in-Machine-Learning
+# Rainfall-Prediction-using-Python-in-Machine-Learning
